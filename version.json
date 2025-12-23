@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "release_date": "2023-12-23",
+  "changelog": "Versão inicial para sistema de updates\n- Implementado ícone da aplicação\n- Sistema de licenças funcionando\n- Todas as estratégias operacionais",
+  "download_url": "https://github.com/juniorbatistamlk-stack/updates-bot/raw/main/darkblack-bot-client-v1.0.1.zip",
+  "min_supported_version": "1.0.0"
+}
