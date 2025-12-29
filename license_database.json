@@ -1,0 +1,23 @@
+{
+  "licenses": [
+    {
+      "key": "DBB-C71C-6ED1-BB0D",
+      "name": "Junior",
+      "whatsapp": "+55",
+      "created_at": "2025-12-23T09:01:44.691267",
+      "expiry_date": "2026-01-22T09:01:44.691267",
+      "hwid": null,
+      "notes": "Gerado via Manager"
+    },
+    {
+      "key": "DBB-5D50-B7EC-3BC7",
+      "name": "teste",
+      "whatsapp": "+55",
+      "created_at": "2025-12-23T09:11:50.114755",
+      "expiry_date": "2026-01-22T09:11:50.114755",
+      "hwid": null,
+      "notes": "Gerado via Manager",
+      "activated_at": null
+    }
+  ]
+}
