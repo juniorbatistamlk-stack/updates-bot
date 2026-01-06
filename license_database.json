@@ -1,13 +1,15 @@
 {
   "licenses": [
     {
-      "key": "DBB-C71C-6ED1-BB0D",
-      "name": "Junior",
-      "whatsapp": "+55",
-      "created_at": "2025-12-23T09:01:44.691267",
-      "expiry_date": "2026-01-22T09:01:44.691267",
-      "hwid": null,
-      "notes": "Gerado via Manager"
+      "key": "DBB-E96E-C0D2-0FF3",
+      "name": "JUNIOR",
+      "whatsapp": "1232134",
+      "created_at": "2026-01-06T16:23:58.958980",
+      "expiry_date": "2125-12-13T16:23:58.958980",
+      "status": "active",
+      "activated_hwid": null,
+      "activated_at": null,
+      "notes": "Gerado em 06/01/2026"
     },
     {
       "key": "DBB-5D50-B7EC-3BC7",
@@ -18,6 +20,17 @@
       "hwid": null,
       "notes": "Gerado via Manager",
       "activated_at": null
+    },
+    {
+      "key": "DBB-C71C-6ED1-BB0D",
+      "name": "Junior",
+      "whatsapp": "+55",
+      "created_at": "2025-12-23T09:01:44.691267",
+      "expiry_date": "2026-01-22T09:01:44.691267",
+      "hwid": null,
+      "notes": "Gerado via Manager"
     }
-  ]
+  ],
+  "updated_at": "2026-01-06T16:23:58.960986",
+  "total_licenses": 3
 }
