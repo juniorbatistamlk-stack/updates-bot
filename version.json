@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 {
-  "version": "1",
-  "release_date": "2025-12-23",
-  "changelog": "Correção de bugs e melhorias de estabilidade",
-  "download_url": "https://github.com/juniorbatistamlk-stack/updates-bot/raw/main/darkblack-bot-v1.zip"
-=======
-{
-  "version": "1",
-  "release_date": "2025-12-23",
-  "changelog": "Correção de bugs e melhorias de estabilidade",
-  "download_url": "https://github.com/juniorbatistamlk-stack/updates-bot/raw/main/darkblack-bot-v1.zip"
->>>>>>> 0980203f80331e227763e60e9713ed3bdaf2b567
+  "version": "1.0.1",
+  "release_date": "2026-01-06",
+  "changelog": "Correções e melhorias. (Auto-update + ajustes de estabilidade)",
+  "download_url": "https://github.com/juniorbatistamlk-stack/updates-bot/raw/main/darkblack-bot-client-v1.0.1.zip"
 }
