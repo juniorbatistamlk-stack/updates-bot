@@ -1,14 +1,32 @@
 {
   "schema": "public-v1",
   "version": "4.0",
-  "updated_at": "2026-01-06T19:16:44.394206",
-  "total_licenses": 3,
+  "updated_at": "2026-01-10T09:36:44.448151",
+  "total_licenses": 5,
   "licenses": [
     {
-      "key_hash": "bb599237c1d411815c795e594b0dfd570bba75fddff2f08ac3259868b0c3889b",
-      "name": "JUNIOR",
-      "created_at": "2026-01-06T16:23:58.958980",
-      "expiry_date": "2125-12-13T16:23:58.958980",
+      "key_hash": "2a97fe327f28fc6ecd37f9440d48727d516eafa9c1c9255fef50a87b19f82541",
+      "name": "teste",
+      "created_at": "2026-01-10T09:36:39.518858",
+      "expiry_date": "2026-02-09T09:36:39.518858",
+      "status": "active",
+      "activated_hwid": null,
+      "activated_at": null
+    },
+    {
+      "key_hash": "dd15f01798c92015f007b99d8cc791a76ebf8c72afd456943a5efbafb2b4bf0c",
+      "name": "Junior",
+      "created_at": "2026-01-10T09:28:13.599188",
+      "expiry_date": "2125-12-17T09:28:13.599188",
+      "status": "active",
+      "activated_hwid": null,
+      "activated_at": null
+    },
+    {
+      "key_hash": "f86c48d118b223996468777033197eefb5c0520a0c02140286263e525af69b5e",
+      "name": "Junior",
+      "created_at": "2026-01-10T00:53:15.610025",
+      "expiry_date": "2125-12-17T00:53:15.610025",
       "status": "active",
       "activated_hwid": null,
       "activated_at": null
@@ -32,5 +50,4 @@
       "activated_at": null
     }
   ]
-
 }
